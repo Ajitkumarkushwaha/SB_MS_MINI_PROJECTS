@@ -13,8 +13,8 @@ spring:
     password: system
   mail:
     host: smtp.gmail.com
-    username: 
-    password: 
+    username: Enter Your Own Username
+    password: Enter Your Own Password
     port: 587
     properties:
       mail:
