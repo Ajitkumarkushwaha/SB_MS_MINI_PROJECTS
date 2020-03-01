@@ -1,0 +1,15 @@
+
+HI FIRST   LAST .
+<br/>
+Welcome To KBM Family Now You Are The Member Of KBM Group.
+<br/>
+Please Complete Your Registration By Using Temporary Password.
+And Enjoy Our Services.
+<br/><br/>
+Your Temporary Password : TEMP-PWD
+<br/><br/>
+<a href="http://localhost:9898/unlockAccount?email=EMAIL">Click here To Complete Your Registration</a>
+<br/><br/>
+Thank's & Regards
+<br/><br/>
+KBM Group .

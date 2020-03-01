@@ -1,0 +1,81 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+    
+.registration-form{
+	
+	width: 520px;
+	align-content: center;
+}
+.intro_div{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    border: 5px solid #00b3ee;
+    background-color: orange;
+}
+.intro_div p{
+    color: orangered;
+    font-family: Arial, SansSerif;
+    font-size: 24px;
+}
+.card-header{
+    margin: -15px;
+    margin-top: -25px;
+    border-radius: 10px;
+}
+.bg-primary{
+    background: linear-gradient(45deg, royalblue,#0c5460);
+}
+.bg-success{
+    background: linear-gradient(45deg, limegreen,#0c5460);
+}
+.bg-danger{
+    background: linear-gradient(45deg, tomato, #0c5460);
+}
+.bg-secondary{
+    background: linear-gradient(45deg,darkorchid,#0c5460);
+}
+.bg-warning{
+    background: linear-gradient(45deg, goldenrod,#0c5460);
+}
+.bg-info{
+    background: linear-gradient(45deg,mediumturquoise,#0c5460);
+}
+/**
+Button Desigining
+ */
+.btn-primary{
+    background: linear-gradient(45deg, royalblue,#0c5460);
+}
+.btn-success{
+    background: linear-gradient(45deg, limegreen,#0c5460);
+}
+.btn-danger{
+    background: linear-gradient(45deg, tomato, #0c5460);
+}
+.btn-secondary{
+    background: linear-gradient(45deg,darkorchid,#0c5460);
+}
+.btn-warning{
+    background: linear-gradient(45deg, goldenrod,#0c5460);
+}
+.btn-info{
+    background: linear-gradient(45deg,mediumturquoise,#0c5460);
+}
+.form-control{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid teal;
+}
+
+
+.form-control:focus{
+    outline: none;
+    box-shadow: none;
+    border-bottom: 1.5px solid rgba(231,26,113,0.77);
+    box-shadow: 0 0 6px orangered;
+}

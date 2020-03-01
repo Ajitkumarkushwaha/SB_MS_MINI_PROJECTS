@@ -1,0 +1,31 @@
+#Server Configuration
+server:  port: 9898
+#DB Configuration
+spring:
+  mvc:    view:      prefix: /WEB-INF/views/
+      suffix: .jsp  datasource:    url: jdbc:oracle:thin:@localhost:1521/orcl
+    username: system
+    password: system
+  mail:
+    host: smtp.gmail.com
+    username: kushwaha13298@gmail.com
+    password: 8002077883
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          connectiontimeout: 5000
+          starttls:
+            enable: true
+          timeout: 5000
+          writetimeout: 5000
+#Data Jpa Configuration  jpa:    hibernate:      ddl-auto: update
+    show-sql: true
+    properties:      hibernate:
+        dialect: org.hibernate.dialect.OracleDialect
+#Logging Configuration
+logging:  file:    name: UserRegistrationManagement_Log.log
+   #Email Properties Configuratio   
+   
+    
