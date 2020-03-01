@@ -1,0 +1,61 @@
+2020-02-18 00:10:59.505  INFO 13784 --- [Thread-97] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-18 00:11:00.178  INFO 13784 --- [Thread-97] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-18 00:11:00.182  INFO 13784 --- [Thread-97] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Shutdown initiated...
+2020-02-18 00:11:00.381  INFO 13784 --- [Thread-97] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Shutdown completed.
+2020-02-18 00:11:01.606  INFO 13784 --- [restartedMain] com.kushwaha.Application                 : Starting Application on DESKTOP-JCL1GVP with PID 13784 (started by ANA in G:\Ashok Sir\RealTime_Java_Project\Workspace\Mini_Project\SB_MS_Mini_Project_ContactDtlsApp_CurdOpeartion_With_Validation_1.3)
+2020-02-18 00:11:01.607  INFO 13784 --- [restartedMain] com.kushwaha.Application                 : No active profile set, falling back to default profiles: default
+2020-02-18 00:11:02.008  INFO 13784 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-18 00:11:02.027  INFO 13784 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 1 JPA repository interfaces.
+2020-02-18 00:11:02.122  INFO 13784 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-18 00:11:02.204  INFO 13784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2020-02-18 00:11:02.205  INFO 13784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-18 00:11:02.206  INFO 13784 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-18 00:11:02.360  INFO 13784 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-02-18 00:11:02.363  INFO 13784 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2020-02-18 00:11:02.364  INFO 13784 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 753 ms
+2020-02-18 00:11:02.429  INFO 13784 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-18 00:11:02.439  INFO 13784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Starting...
+2020-02-18 00:11:02.440  WARN 13784 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-02-18 00:11:02.554  INFO 13784 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Start completed.
+2020-02-18 00:11:02.554  INFO 13784 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.OracleDialect
+2020-02-18 00:11:02.554  WARN 13784 --- [restartedMain] org.hibernate.dialect.Oracle9Dialect     : HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+2020-02-18 00:11:02.555  WARN 13784 --- [restartedMain] org.hibernate.dialect.OracleDialect      : HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+2020-02-18 00:11:03.012  INFO 13784 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-18 00:11:03.012  INFO 13784 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-18 00:11:03.033  INFO 13784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-18 00:11:03.038  INFO 13784 --- [restartedMain] com.kushwaha.service.ContactserviceImpl  : Service Class Is Initialized
+2020-02-18 00:11:03.398  WARN 13784 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-18 00:11:03.535  INFO 13784 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-18 00:11:03.703  INFO 13784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9898 (http) with context path ''
+2020-02-18 00:11:03.704  INFO 13784 --- [restartedMain] com.kushwaha.Application                 : Started Application in 2.167 seconds (JVM running for 5222.542)
+2020-02-18 00:11:03.706  INFO 13784 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-02-18 00:11:44.582  INFO 13784 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-18 00:11:44.587  INFO 13784 --- [RMI TCP Connection(4)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-18 00:11:44.587  INFO 13784 --- [RMI TCP Connection(4)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-18 00:11:44.589  INFO 13784 --- [RMI TCP Connection(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Shutdown initiated...
+2020-02-18 00:11:44.635  INFO 13784 --- [RMI TCP Connection(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Shutdown completed.
+2020-02-18 00:12:05.672  INFO 13972 --- [main] com.kushwaha.test.ContactServiceTest     : Starting ContactServiceTest on DESKTOP-JCL1GVP with PID 13972 (started by ANA in G:\Ashok Sir\RealTime_Java_Project\Workspace\Mini_Project\SB_MS_Mini_Project_ContactDtlsApp_CurdOpeartion_With_Validation_1.3)
+2020-02-18 00:12:05.675  INFO 13972 --- [main] com.kushwaha.test.ContactServiceTest     : No active profile set, falling back to default profiles: default
+2020-02-18 00:12:07.155  INFO 13972 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-18 00:12:07.292  INFO 13972 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 118ms. Found 1 JPA repository interfaces.
+2020-02-18 00:12:08.747  INFO 13972 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-18 00:12:09.452  INFO 13972 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-18 00:12:09.578  INFO 13972 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-18 00:12:09.657  INFO 13972 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-18 00:12:10.111  INFO 13972 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-18 00:12:10.118  WARN 13972 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-02-18 00:12:10.651  INFO 13972 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-18 00:12:10.685  INFO 13972 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.OracleDialect
+2020-02-18 00:12:10.694  WARN 13972 --- [main] org.hibernate.dialect.Oracle9Dialect     : HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+2020-02-18 00:12:10.697  WARN 13972 --- [main] org.hibernate.dialect.OracleDialect      : HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+2020-02-18 00:12:12.425  INFO 13972 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-18 00:12:12.436  INFO 13972 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-18 00:12:12.456  INFO 13972 --- [main] com.kushwaha.service.ContactserviceImpl  : Service Class Is Initialized
+2020-02-18 00:12:13.294  WARN 13972 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-18 00:12:14.256  INFO 13972 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-18 00:12:16.127  INFO 13972 --- [main] com.kushwaha.test.ContactServiceTest     : Started ContactServiceTest in 11.236 seconds (JVM running for 14.933)
+2020-02-18 00:12:16.412  INFO 13972 --- [main] com.kushwaha.service.ContactserviceImpl  : Contact Service saveContact(): Method Is Completed
+2020-02-18 00:12:16.518  INFO 13972 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-18 00:12:16.520  INFO 13972 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-18 00:12:16.524  INFO 13972 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-18 00:12:16.567  INFO 13972 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

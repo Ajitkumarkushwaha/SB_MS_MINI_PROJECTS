@@ -1,0 +1,106 @@
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-5] INFO  com.kushwaha.controller.ContactController  - Contact Cntroller retriveAllActiveContact(): Method Is Called
+[http-nio-9898-exec-5] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-5] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory getAllContact(): Custom Method Is Called
+[http-nio-9898-exec-5] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Completed
+[http-nio-9898-exec-5] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-5] INFO  com.kushwaha.controller.ContactController  - Contact Controller retriveAllActiveContact(): Method Execution Is Complete
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service findByContactId(): Method Is Called
+[http-nio-9898-exec-4] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.findByContactId(): Method IS Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Execution Is Completed 
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - Contact Cntroller retriveAllActiveContact(): Method Is Called
+[http-nio-9898-exec-2] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-2] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory getAllContact(): Custom Method Is Called
+[http-nio-9898-exec-2] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Completed
+[http-nio-9898-exec-2] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - Contact Controller retriveAllActiveContact(): Method Execution Is Complete
+[http-nio-9898-exec-7] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-7] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repository save(): Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Completed
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact Method Is Called
+[http-nio-9898-exec-8] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-8] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-10] INFO  com.kushwaha.controller.ContactController  - Contact Cntroller retriveAllActiveContact(): Method Is Called
+[http-nio-9898-exec-10] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-10] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory getAllContact(): Custom Method Is Called
+[http-nio-9898-exec-10] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Completed
+[http-nio-9898-exec-10] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-10] INFO  com.kushwaha.controller.ContactController  - Contact Controller retriveAllActiveContact(): Method Execution Is Complete
+[http-nio-9898-exec-6] INFO  com.kushwaha.controller.ContactController  - Contact Controller deleteContact(): Method Is Called 
+[http-nio-9898-exec-6] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service removeContact(): Method Is Completed
+[http-nio-9898-exec-6] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory removeContact(): Method Is Called
+[http-nio-9898-exec-6] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service removeContact(): Method Is Completed
+[http-nio-9898-exec-6] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.removeContact(): Method Is Called 
+[http-nio-9898-exec-6] INFO  com.kushwaha.controller.ContactController  - Contact Controller deleteContact(): Method Is Called 
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Cntroller retriveAllActiveContact(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory getAllContact(): Custom Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Completed
+[http-nio-9898-exec-4] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller retriveAllActiveContact(): Method Execution Is Complete
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Is Called 
+[http-nio-9898-exec-2] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service findByContactId(): Method Is Called
+[http-nio-9898-exec-2] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.findByContactId(): Method IS Called
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Execution Is Completed 
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact() Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Called
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repository save(): Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Completed
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.saveContact() Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact Method Is Called
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Cntroller retriveAllActiveContact(): Method Is Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory getAllContact(): Custom Method Is Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service getAllActiveContacts(): Method Is Completed
+[http-nio-9898-exec-1] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.getAllActiveContacts(): Method Is Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller retriveAllActiveContact(): Method Execution Is Complete
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller deleteContact(): Method Is Called 
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service removeContact(): Method Is Completed
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repsitory removeContact(): Method Is Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service removeContact(): Method Is Completed
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.removeContact(): Method Is Called 
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller deleteContact(): Method Is Called 
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-2] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Is Called 
+[http-nio-9898-exec-1] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service findByContactId(): Method Is Called
+[http-nio-9898-exec-1] DEBUG com.kushwaha.controller.ContactController  - Contact Controller contactservice.findByContactId(): Method IS Called
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Contact Controller handleEditLink(): Method Execution Is Completed 
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact() Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Called
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repository save(): Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Completed
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.saveContact() Method Is Called 
+[http-nio-9898-exec-3] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repository save(): Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Completed
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact Method Is Called
+[http-nio-9898-exec-5] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-5] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-1] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Called
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Repository save(): Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.service.ContactserviceImpl  - Contact Service saveContact(): Method Is Completed
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller contactservice.saveContact() Method Is Called 
+[http-nio-9898-exec-4] INFO  com.kushwaha.controller.ContactController  - Contact Controller saveContact Method Is Called
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - showWelcomePage(): Method Is Called With /register url
+[http-nio-9898-exec-9] INFO  com.kushwaha.controller.ContactController  - Empty Contact(Domain) Class Object is Loaded
